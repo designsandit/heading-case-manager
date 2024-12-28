@@ -1,0 +1,49 @@
+# Heading Case Manager - Changelog
+
+## [1.0.1] - 2024-03-27
+### Changed
+- Mejoras visuales en la interfaz de usuario
+- Reducción del tamaño de los botones para mejor usabilidad
+- Mejor espaciado entre elementos de la interfaz
+- Mejoras en la disposición de controles
+- Optimización del diseño responsive
+- Transiciones suaves añadidas a los botones
+- Mejora en la organización de elementos del selector de posts
+
+## [1.0.0] - 2024-03-27
+### Added
+- Funcionalidad inicial del plugin
+- Panel de administración en Ajustes > Heading Case
+- Procesamiento de H2, H3 y H4 en posts, páginas y productos WooCommerce
+- Compatibilidad con el editor Gutenberg
+- Sistema de backup automático antes de procesar contenido
+- Opción para revertir cambios
+- Lista de palabras excluidas configurable
+- Lista de acrónimos configurable
+- Vista previa de cambios antes de aplicarlos
+- Selección específica de posts para procesar
+- Sistema de búsqueda y filtrado de posts
+- Log detallado de cambios realizados
+- Estadísticas de procesamiento
+- Interfaz responsiva con estilos personalizados
+- Soporte para múltiples tipos de contenido
+- Mensajes de confirmación y error
+- Botones para seleccionar/deseleccionar todos los posts
+
+### Technical Details
+- Compatible con WordPress 5.0+
+- Requiere PHP 7.4+
+- Integración con el sistema de bloques de WordPress
+- Manejo seguro de AJAX
+- Verificación de nonce para seguridad
+- Comprobación de permisos de usuario
+- Sistema de respaldo automático
+- Estilo visual consistente con la interfaz de WordPress
+
+### Languages
+- Español (ES)
+
+### Dependencies
+- WordPress 5.0 o superior
+- PHP 7.4 o superior
+- Font Montserrat (Google Fonts)
